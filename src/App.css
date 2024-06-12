@@ -1,8 +1,0 @@
-@font-face {
-    font-family: 'anvir';
-    src: url('./assets/fonts/avenir_roman_12.otf'),
-}
-
-.ff_anvir {
-    font-family: 'anvir', sans-serif;
-}

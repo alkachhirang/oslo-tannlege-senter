@@ -17,6 +17,14 @@ body {
 .gradient_circle {
   background: linear-gradient(282deg, #FD9ABC 15.9%, #87EEF0 78.97%);
 }
+@font-face {
+  font-family: 'anvir';
+  src: url('./assets/fonts/avenir_roman_12.otf'),
+}
+
+.ff_anvir {
+  font-family: 'anvir', sans-serif;
+}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
