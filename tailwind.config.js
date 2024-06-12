@@ -11,7 +11,14 @@ module.exports = {
         pink: "#FF6499",
       },
       lineHeight: {
-        "3md":"138%",
+        md: "100%",
+        "3md": "138%",
+
+      },
+      fontSize: {
+        "4md": "40px",
+        "6lg": "60px",
+
       },
 
     },

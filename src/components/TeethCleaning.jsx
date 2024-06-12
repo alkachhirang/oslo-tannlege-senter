@@ -13,8 +13,8 @@ const CleanTeeth = () => {
             <img src={pinkDotted} alt="pinkDotted" className='xl:max-w-[448px] sm:max-w-[380px] max-w-[240px] h-[240px] w-full sm:h-[385px] absolute right-[3%] xl:right-[-3%] 2xl:right-0 bottom-[-20%] lg:bottom-[-24%] xl:bottom-[5%] 2xl:bottom-[-15%] z-[0] pointer-events-none' />
             <img src={teethCleaning} alt="teethCleaning" className='2xl:max-w-[563px] 2xl:h-[510px] sm:max-w-[550px] relative z-[1]' />
           </div>
-          <div className='xl:w-1/2 w-full mt-[65px] sm:mt-[90px] md:mt-[130px] xl:mt-0 relative z-2'>  
-            <h2 className='text-black ff_anvir font-extrabold text-2xl sm:text-3xl xl:text-[40px] 2xl:max-w-[800px] !leading-3md mb-[15px] sm:mb-[20px] 2xl:mb-[44px]'>Teeth cleaning with Airflow is a reasonable and fast treatment that prevents cavities and gum disease. Your teeth will be cleaner and also look whiter.</h2>
+          <div className='xl:w-1/2 w-full mt-[65px] sm:mt-[90px] md:mt-[130px] xl:mt-0 relative z-10'>  
+            <h2 className='text-black ff_anvir font-extrabold text-2xl sm:text-3xl xl:text-4md 2xl:max-w-[800px] !leading-3md mb-[15px] sm:mb-[20px] 2xl:mb-[44px]'>Teeth cleaning with Airflow is a reasonable and fast treatment that prevents cavities and gum disease. Your teeth will be cleaner and also look whiter.</h2>
             <p className='font-medium ff_anvir text-grey text-xl sm:text-2xl 2xl:max-w-[708px] mb-[20px] md:mb-[30px] 2xl:mb-[40px] !leading-normal'>Having a professional teeth cleaning done at least once a year, will prevent many dental health problems. The teeth cleanse will:</p>
             <div className='flex sm:gap-[19px] gap-[12px] 2xl:mb-[30px] sm:mb-[20px] mb-[12px] items-baseline'>
               <span>
