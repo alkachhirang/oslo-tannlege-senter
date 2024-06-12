@@ -18,7 +18,7 @@ const TeethAirflow = () => {
                     </div>
                     <div className="xl:w-1/2 w-full relative flex justify-center xl:justify-end z-10 order-0 xl:order-1">
                         <div className="relative z-10  md:mt-[38px]">
-                            <img src={whiteTeethCircle} alt="whiteTeethCircle" className=" absolute z-20 animate-spin top-[12%] w-[121px] h-[121px] sm:w-[183.95px] sm:h-[183.95px] left-[-4%]"></img>
+                            <img src={whiteTeethCircle} alt="whiteTeethCircle" className=" absolute z-20 animate-spin top-[12%] w-[121px] h-[121px] sm:w-[183.95px] sm:h-[183.95px] left-[-4%] pointer-events-none"></img>
                             <img src={blueDotted} alt="blueDotted" className="xl:max-w-[448px] sm:max-w-[380px] max-w-[240px] h-[240px] w-full sm:h-[385px] absolute animate-pulse bottom-[-13%] left-[-3%] md:left-[-12%] lg:left-[-17%] pointer-events-none"></img>
                             <img src={selfieMan} alt="selfieMan" className='2xl:w-[665px] sm:w-[580px] 2xl:h-[751px] relative z-10' />
                         </div>
