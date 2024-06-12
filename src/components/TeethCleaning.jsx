@@ -8,8 +8,8 @@ const CleanTeeth = () => {
       <div className='container 2xl:max-w-[1544px] mx-auto px-6'>
         <div className='flex flex-row flex-wrap xl:justify-between relative'>
           <div className="gradient_ellips w-[1034px] h-[810px] blur-[270px] rotate-[116deg] rounded-[100%] absolute top-[-49%] right-[-29%] z-0 pointer-events-none"></div>
-          <div className='xl:w-[44%] w-full lg:mt-[38px] max-xl:flex justify-center items-center relative'>
-            <div className='2xl:w-[233px] 2xl:h-[225px] sm:w-[200px] sm:h-[200px] w-[100px] h-[100px] gradient_circle animate-pulse rounded-[100%] absolute left-[-3%] sm:left-0 lg:left-[15%] bottom-[-10%] sm:bottom-[-6%] md:bottom-[-4%] xl:left-[-3%] 2xl:left-[-10%] xl:bottom-[27%] 2xl:bottom-[13%] pointer-events-none'></div>
+          <div className='xl:w-[44%] 2xl:w-[46%] w-full lg:mt-[38px] 2xl:flex max-xl:flex justify-center items-center relative'>
+            <div className='2xl:w-[233px] 2xl:h-[225px] sm:w-[200px] sm:h-[200px] w-[100px] h-[100px] gradient_circle animate-pulse rounded-[100%] absolute left-[-3%] sm:left-0 lg:left-[15%] bottom-[-10%] sm:bottom-[-6%] md:bottom-[-4%] xl:left-[-3%] 2xl:left-[-5%] xl:bottom-[27%] 2xl:bottom-[7%] pointer-events-none'></div>
             <img src={pinkDotted} alt="pinkDotted" className='xl:max-w-[448px] sm:max-w-[380px] max-w-[240px] h-[240px] w-full sm:h-[385px] absolute right-[3%] xl:right-[-3%] 2xl:right-0 bottom-[-20%] lg:bottom-[-24%] xl:bottom-[5%] 2xl:bottom-[-15%] z-[0] pointer-events-none' />
             <img src={teethCleaning} alt="teethCleaning" className='2xl:max-w-[563px] 2xl:h-[510px] sm:max-w-[550px] relative z-[1]' />
           </div>

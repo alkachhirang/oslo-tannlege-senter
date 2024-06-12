@@ -8,6 +8,7 @@ module.exports = {
         lightGrey: "#333333",
         sky: "#77C7C9",
         lightSky: "#39B0B5",
+        lightBlue:"#77c7c980",
         pink: "#FF6499",
       },
       lineHeight: {

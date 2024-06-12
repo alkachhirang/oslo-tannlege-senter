@@ -4,7 +4,7 @@ import Professinallyimg from '../assets/images/webp/professionallyClean.webp';
 const ProfessinallyClean = () => {
     return (
         <div className='relative 2xl:mb-[221px] xl:mb-[100px] sm:mb-[64px] mb-[48px]'>
-            <div className='2xl:h-[315px] xl:h-[300px] lg:h-[230px] md:h-[285px] sm:h-[275px] bg-sky w-full absolute sm:top-[67%] md:top-[66%] lg:top-[68%] xl:top-[23%] 2xl:top-[30%] z-0 sm:block hidden'></div>
+            <div className='2xl:h-[315px] xl:h-[300px] lg:h-[230px] md:h-[285px] sm:h-[275px] bg-lightBlue w-full absolute sm:top-[67%] md:top-[66%] lg:top-[68%] xl:top-[23%] 2xl:top-[30%] z-0 sm:block hidden'></div>
             <div className='container 2xl:max-w-[1544px] mx-auto px-6'>
                 <div className='flex gap-[35px] md:gap-[51px] flex-row flex-wrap justify-center items-center 2xl:items-end relative z-2'>
                     <div className='xl:w-[36%] w-full flex justify-center items-center'>
