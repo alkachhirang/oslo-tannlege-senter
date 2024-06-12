@@ -11,6 +11,13 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.gradient_ellips {
+  background: linear-gradient(282deg, #87EEF0 15.9%, #FD9ABC 78.97%);
+}
+.gradient_circle {
+  background: linear-gradient(282deg, #FD9ABC 15.9%, #87EEF0 78.97%);
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
