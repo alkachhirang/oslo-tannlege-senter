@@ -1,5 +1,5 @@
 import React from 'react';
-import Professinallyimg from '../assets/images/webp/professionallyClean.png';
+import Professinallyimg from '../assets/images/webp/professionallyClean.webp';
 
 const ProfessinallyClean = () => {
     return (
