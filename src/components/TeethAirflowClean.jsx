@@ -3,7 +3,7 @@ import selfieMan from "../assets/images/webp/teethAirflow.webp";
 import whiteTeethCircle from "../assets/images/webp/whiteTeethCircle.webp";
 import blueDotted from "../assets/images/webp/airflowDotted.webp";
 
-const TeethAirflow = () => {
+const TeethAirflowClean = () => {
     return (
         <div className='2xl:mt-[128px] xl:my-[100px] sm:my-[64px] my-[48px] 2xl:mb-[173px]'>
             <div className="container 2xl:max-w-[1544px] mx-auto px-6">
@@ -29,4 +29,4 @@ const TeethAirflow = () => {
     )
 }
 
-export default TeethAirflow;
+export default TeethAirflowClean;
