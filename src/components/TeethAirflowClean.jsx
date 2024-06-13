@@ -12,7 +12,7 @@ const TeethAirflowClean = () => {
                     <div className="xl:w-[45%] 2xl:w-[46%] flex items-center order-1 xl:order-0 mt-[35px] sm:mt-[50px] md:mt-[100px] xl:mt-0">
                         <div className="relative z-20 mt-5">
                             <h2 className='text-black ff_anvir font-extrabold text-2xl sm:text-3xl xl:text-[40px] 2xl:max-w-[460px] !leading-3md mb-[15px] sm:mb-[20px] xl:mb-[44px]'>Why should you clean your teeth with Airflow?</h2>
-                            <p className='font-medium ff_anvir text-grey text-xl sm:text-2xl 2xl:max-w-[648px] mb-[20px] md:mb-[30px] xl:mb-[50px] 2xl:mb-[61px] !leading-normal '>The dentist will first remove tartar using traditional methods and then finish with Airflow as a last thorough touch. The treatment removes discoloration and biofilm (i.e. the layer of bacteria which is also called plaque when the biofilm is in the mouth).</p>
+                            <p className='font-medium ff_anvir text-grey text-base sm:text-xl md:text-2xl 2xl:max-w-[648px] mb-[20px] md:mb-[30px] xl:mb-[50px] 2xl:mb-[61px] !leading-normal '>The dentist will first remove tartar using traditional methods and then finish with Airflow as a last thorough touch. The treatment removes discoloration and biofilm (i.e. the layer of bacteria which is also called plaque when the biofilm is in the mouth).</p>
                             <h3 className='text-lightSky ff_anvir font-extrabold text-2xl sm:text-3xl xl:text-[40px] 2xl:max-w-[581px] !leading-3md mb-[15px] sm:mb-[20px]'>The result is a healthy mouth with cleaner, whiter teeth.</h3>
                         </div>
                     </div>

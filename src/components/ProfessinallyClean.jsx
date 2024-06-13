@@ -16,11 +16,11 @@ const ProfessinallyClean = () => {
                         <p className='font-normal ff_anvir text-lightGrey text-xl sm:text-2xl 2xl:max-w-[620px] mb-[20px] md:mb-[30px] 2xl:mb-[40px] !leading-normal'>If you want to have clean, white teeth all the time, we recommend that you repeat the treatment at regular intervals. <span className='font-extrabold'>Ask the dentist about your unique needs.</span></p>
                         <div className='sm:mt-[76px] mt-[30px] flex sm:items-center sm:gap-[70px] gap-[25px]'>
                             <div>
-                                <p className='font-extrabold ff_anvir text-lightGrey text-xl sm:text-2xl !leading-normal mb-[6px]'>Treatment takes</p>
+                                <p className='font-extrabold ff_anvir text-lightGrey text-base sm:text-xl md:text-2xl !leading-normal mb-[6px]'>Treatment takes</p>
                                 <p className='2xl:text-6lg lg:text-5xl sm:text-3xl text-2xl ff_anvir text-pink font-extrabold leading-md'>45 mins.</p>
                             </div>
                             <div>
-                                <p className='font-extrabold ff_anvir text-lightGrey text-xl sm:text-2xl !leading-normal mb-[6px]'>Results lasts</p>
+                                <p className='font-extrabold ff_anvir text-lightGrey text-base sm:text-xl md:text-2xl !leading-normal mb-[6px]'>Results lasts</p>
                                 <p className='2xl:text-6lg lg:text-5xl sm:text-3xl text-2xl ff_anvir text-pink font-extrabold leading-md'>6-12 months</p>
                             </div>
                         </div>

@@ -15,13 +15,13 @@ const CleanTeeth = () => {
           </div>
           <div className='xl:w-1/2 w-full mt-[65px] sm:mt-[90px] md:mt-[130px] xl:mt-0 relative z-10'>  
             <h2 className='text-black ff_anvir font-extrabold text-2xl sm:text-3xl xl:text-4md 2xl:max-w-[800px] !leading-3md mb-[15px] sm:mb-[20px] 2xl:mb-[44px]'>Teeth cleaning with Airflow is a reasonable and fast treatment that prevents cavities and gum disease. Your teeth will be cleaner and also look whiter.</h2>
-            <p className='font-medium ff_anvir text-grey text-xl sm:text-2xl 2xl:max-w-[708px] mb-[20px] md:mb-[30px] 2xl:mb-[40px] !leading-normal'>Having a professional teeth cleaning done at least once a year, will prevent many dental health problems. The teeth cleanse will:</p>
+            <p className='font-medium ff_anvir text-grey text-base sm:text-xl md:text-2xl 2xl:max-w-[708px] mb-[20px] md:mb-[30px] 2xl:mb-[40px] !leading-normal'>Having a professional teeth cleaning done at least once a year, will prevent many dental health problems. The teeth cleanse will:</p>
             <div className='flex sm:gap-[19px] gap-[12px] 2xl:mb-[30px] sm:mb-[20px] mb-[12px] items-baseline'>
               <span>
                 <div className='bg-sky w-[14px] h-[14px] sm:w-[18px] sm:h-[18px] rounded-[100%]'>
                 </div>
               </span>
-              <p className='text-grey ff_anvir font-normal text-xl sm:text-2xl !leading-normal'>Removing tartar and preventing cavities (caries)
+              <p className='text-grey ff_anvir font-normal text-base sm:text-xl md:text-2xl !leading-normal'>Removing tartar and preventing cavities (caries)
               </p>
             </div>
             <div className='flex sm:gap-[19px] gap-[12px] 2xl:mb-[30px] sm:mb-[20px] mb-[12px] items-baseline'>
@@ -29,7 +29,7 @@ const CleanTeeth = () => {
                 <div className='bg-sky w-[14px] h-[14px] sm:w-[18px] sm:h-[18px] rounded-[100%]'>
                 </div>
               </span>
-              <p className='text-grey ff_anvir font-normal text-xl sm:text-2xl !leading-normal'>
+              <p className='text-grey ff_anvir font-normal text-base sm:text-xl md:text-2xl !leading-normal'>
                 Remove superficial discoloration from wine, tobacco, coffee, tea and strongly colored foods
               </p>
             </div>
@@ -38,7 +38,7 @@ const CleanTeeth = () => {
                 <div className='bg-sky w-[14px] h-[14px] sm:w-[18px] sm:h-[18px] rounded-[100%]'>
                 </div>
               </span>
-              <p className='text-grey ff_anvir font-normal text-xl sm:text-2xl !leading-normal'> Clean the gums, especially around dental crowns and implants
+              <p className='text-grey ff_anvir font-normal text-base sm:text-xl md:text-2xl !leading-normal'> Clean the gums, especially around dental crowns and implants
               </p>
             </div>
             <div className='flex sm:gap-[19px] gap-[12px] 2xl:mb-[30px] sm:mb-[20px] mb-[12px] items-baseline'>
@@ -46,7 +46,7 @@ const CleanTeeth = () => {
                 <div className='bg-sky w-[14px] h-[14px] sm:w-[18px] sm:h-[18px] rounded-[100%]'>
                 </div>
               </span>
-              <p className='text-grey ff_anvir font-normal text-xl sm:text-2xl !leading-normal'>Give whiter teeth that make daily oral hygiene more motivating
+              <p className='text-grey ff_anvir font-normal text-base sm:text-xl md:text-2xl !leading-normal'>Give whiter teeth that make daily oral hygiene more motivating
               </p>
             </div>
           </div>
